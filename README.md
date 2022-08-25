@@ -21,3 +21,7 @@ images are displayed according to the word .
 
 ## Preview
 ### Desktop Mode
+
+![00](https://user-images.githubusercontent.com/100797809/186780895-2ed55698-59dc-4a0a-b95c-5b1c4bb8cd2c.png)
+![01](https://user-images.githubusercontent.com/100797809/186780889-d40f7dd4-d970-4809-a673-e396390e3f2c.png)
+----
