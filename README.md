@@ -4,7 +4,7 @@
 - **React**
 - **Axiso**
 - **React icon**
-- **API unplash**
+- **API unsplash**
 - **CSS**
 
 ## A brief desciption of the project
