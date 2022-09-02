@@ -1,4 +1,4 @@
-# Pic Search With React
+# Pics Search With React
 
 ## Technologies
 - **React**
